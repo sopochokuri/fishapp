@@ -1,0 +1,112 @@
+[
+    {
+        "info": "Bottomfish fishing operations, typically using weighted lines and baited hooks, do not have adverse impacts to the habitat.",
+        "region": "Pacific Islands",
+        "scientificName": "Pristipomoides filamentosus",
+        "illustrationPhoto": {
+            "src": "https://cdn.britannica.com/33/31033-004-4A4192E3/sunfish.jpg",
+            "alt": "Pink snapper",
+            "title": "Pink snapper"
+        },
+        "name": "Crimson Jobfish"
+    },
+    {
+        "info": "Area closures and gear restrictions protect habitats that are affected by some kinds of trawl gear.",
+        "region": "Greater Atlantic",
+        "scientificName": "Urophycis tenuis",
+        "illustrationPhoto": {
+            "src": "https://cdn.britannica.com/17/37317-004-B45DFB50/Lamprey-rainbow-trout.jpg",
+            "alt": "Illustration of white hake. Credit: Jack Hornady.",
+            "title": ""
+        },
+        "name": "White Hake"
+    },
+    {
+        "info": "Area closures and gear restrictions protect habitat that are affected by some types of trawl gear.",
+        "region": "Greater Atlantic",
+        "scientificName": "Scomber colias",
+        "illustrationPhoto": {
+            "src": "https://cdn.britannica.com/35/26035-004-56E2FD93/Harlequin-fish.jpg",
+            "alt": "Illustration of Atlantic chub mackerel",
+            "title": "Atlantic chub mackerel"
+        },
+        "name": "Atlantic Chub Mackerel"
+    },
+    {
+        "info": "Fishing gears used to harvest shortfin squid have minimal impacts on habitat.",
+        "region": "Greater Atlantic",
+        "scientificName": "Illex illecebrosus",
+        "illustrationPhoto": {
+            "src": "https://cdn.britannica.com/44/31044-004-B555ED8D/Oyster-toadfish.jpg",
+            "alt": "shortfin squid",
+            "title": "Shortfin Squid"
+        },
+        "name": "Shortfin Squid"
+    },
+    {
+        "info": "Fishing gears used to harvest American lobster have minimal impacts on habitat.",
+        "region": "Greater Atlantic",
+        "scientificName": "Homarus americanus",
+        "illustrationPhoto": {
+            "src": "https://cdn.britannica.com/95/107595-050-93F733A6/Flying-fishes-fins-flying-fish-sense-speed.jpg",
+            "alt": "American Lobster",
+            "title": "American Lobster"
+        },
+        "name": "American Lobster"
+    },
+    {
+        "info": "Most fishing gear used to harvest yellowtail rockfish rarely contacts the ocean floor and has minimal impacts on habitat. Area closures and gear restrictions protect sensitive rocky, cold-water coral and sponge habitats from bottom trawl gear.",
+        "region": "West Coast, Alaska",
+        "scientificName": "Sebastes flavidus",
+        "illustrationPhoto": {
+            "src": "https://cdn.britannica.com/08/96208-050-D4F501F1/Bluefin-tuna-waters-Japan.jpg",
+            "alt": "Yellowtail rockfish",
+            "title": "Yellowtail rockfish"
+        },
+        "name": "Yellowtail Rockfish"
+    },
+    {
+        "info": "Area closures and gear restrictions protect sensitive rocky, cold-water coral and sponge habitats from bottom trawl gear.",
+        "region": "West Coast, Alaska",
+        "scientificName": "Sebastes paucispinis",
+        "illustrationPhoto": {
+            "src": "https://www.vedantu.com/seo/content-images/0f41e2d5-a5df-4843-9666-03f635b619a0.png",
+            "alt": "Illustration of a Bocaccio rockfish.",
+            "title": "Bocaccio rockfish."
+        },
+        "name": "Bocaccio"
+    },
+    {
+        "info": null,
+        "region": "West Coast, Greater Atlantic, Alaska",
+        "scientificName": "Saccharina latissima",
+        "illustrationPhoto": {
+            "src": "https://www.vedantu.com/seo/content-images/0239332b-1c8d-407f-936b-6395b087d24e.png",
+            "alt": "",
+            "title": ""
+        },
+        "name": "Sugar Kelp"
+    },
+    {
+        "info": null,
+        "region": "West Coast",
+        "scientificName": "Anoplopoma fimbria",
+        "illustrationPhoto": {
+            "src": "https://media.cnn.com/api/v1/images/stellar/prod/220309153016-02-rose-veiled-fairy-wrasse-discovery.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+            "alt": "",
+            "title": ""
+        },
+        "name": "Sablefish"
+    },
+    {
+        "region": "Greater Atlantic",
+        "scientificName": "Hippoglossus hippoglossus",
+        "illustrationPhoto": {
+            "src": "https://images.pexels.com/photos/128756/pexels-photo-128756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          
+            "alt": "Illustration of Atlantic Halibut.",
+            "title": "Illustration of Atlantic Halibut."
+        },
+        "name": "Atlantic Halibut"
+    }
+]
